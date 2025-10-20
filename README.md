@@ -26,13 +26,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/htdszn/htdszn/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h6 align="right">I'm Aspiring to:<br>Learn a stack (MERN-TS)<br>Obtain Certifications in Cybersecurity (such as CompTia, Cisco)</h6>
+<h6 align="center">I'm Aspiring to:<br>Learn a stack (MERN-TS)<br>Obtain Certifications in Cybersecurity (such as CompTia, Cisco)</h6>
 
 ###
 
