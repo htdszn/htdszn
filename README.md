@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">In My Free Time..<br><br>I enjoy coding my own little personal Projects, spending time completing rooms on TryHackMe,<br> and overall expanding my knowledge in the realm of both cybersecurity and development</h3>
+<h3 align="left">In My Free Time..<br><br>I enjoy coding my own personal projects, spending time completing rooms on TryHackMe,<br> and overall expanding my knowledge in the realm of both cybersecurity and development</h3>
 
 ###
 
