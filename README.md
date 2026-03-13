@@ -8,14 +8,12 @@
 
 ###
 
-<p align="left">The languages i enjoy are:</p>
+<p align="left">The languages i am versed in:</p>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -26,7 +24,7 @@
 
 ###
 
-<h6 align="center">I'm Aspiring to:<br>Learn a stack (MERN-TS)<br>Obtain Certifications in Cybersecurity (such as CompTia, Cisco)</h6>
+<h6 align="center">I'm Aspiring to:<br>Learn a stack (MERN-TS)<br></h6>
 
 ###
 
